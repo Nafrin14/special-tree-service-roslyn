@@ -11,49 +11,96 @@
   />
 
 
-  <!-- Optimized Google Font Loading -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- SEO -->
+  <meta
+    name="description"
+    content="Special Tree Service Roslyn provides professional tree removal, tree trimming, stump grinding, and emergency tree services in Roslyn, New York."
+  />
+
+  <meta
+    name="keywords"
+    content="tree service Roslyn, tree removal Roslyn NY, tree trimming, stump grinding, emergency tree service"
+  />
+
+  <meta
+    name="author"
+    content="Special Tree Service Roslyn"
+  />
+
+
+  <title>
+    Special Tree Service Roslyn | Professional Tree Care Services
+  </title>
+
+
+
+  <!-- Font Optimization -->
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  />
 
   <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  />
+
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
     rel="stylesheet"
     media="print"
     onload="this.media='all'"
-  >
+  />
+
 
   <noscript>
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
-    >
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+    />
   </noscript>
 
 
-  <!-- GitHub Pages SPA redirect handler -->
-  <script type="text/javascript">
-    (function(l) {
-      if (l.search[1] === '/') {
-        var decoded = l.search
+
+
+  <!-- GitHub Pages SPA Redirect -->
+  <script>
+    (function(l){
+
+      if(l.search[1] === '/'){
+
+        var decoded =
+          l.search
           .slice(1)
           .split('&')
-          .map(function(s) {
-            return s.replace(/~and~/g, '&')
+          .map(function(s){
+
+            return s.replace(/~and~/g,'&')
+
           })
           .join('?');
+
 
         window.history.replaceState(
           null,
           null,
-          l.pathname.slice(0, -1) + decoded + l.hash
+          l.pathname.slice(0,-1) +
+          decoded +
+          l.hash
         );
+
       }
-    }(window.location))
+
+    }(window.location));
   </script>
 
 
 
+
   <!-- Favicon -->
+
   <link
     rel="icon"
     type="image/svg+xml"
@@ -62,40 +109,25 @@
 
 
 
-  <!-- SEO -->
-  <meta
-    name="description"
-    content="Special Tree Service Roslyn provides professional tree removal, tree trimming, stump grinding, and emergency tree services in Roslyn, New York."
-  />
-
+  <!-- Theme Color -->
 
   <meta
-    name="keywords"
-    content="tree service Roslyn, tree removal, tree trimming, stump grinding, emergency tree service, landscaping"
+    name="theme-color"
+    content="#064e3b"
   />
-
-
-  <meta
-    name="author"
-    content="Special Tree Service Roslyn"
-  />
-
-
-
-  <title>
-    Special Tree Service Roslyn | Professional Tree Care Services
-  </title>
-
 
   <script type="module" crossorigin src="/special-tree-service-roslyn/assets/index-2zxvCWAf.js"></script>
   <link rel="stylesheet" crossorigin href="/special-tree-service-roslyn/assets/index-DjRJNdFA.css">
 </head>
 
 
+
 <body>
 
 
   <div id="root"></div>
+
+
 
 
 

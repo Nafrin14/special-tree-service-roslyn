@@ -91,7 +91,448 @@ text-white
 px-8 py-4
 rounded-full
 font-black
-`,children:[(0,j.jsx)(yr,{"aria-hidden":`true`}),`Call Now`]})]})})]})}function Fr(){return(0,j.jsxs)(`footer`,{className:`bg-emerald-950 text-emerald-50 pt-20 pb-10 relative overflow-hidden`,children:[(0,j.jsx)(`div`,{className:`absolute -bottom-20 -right-20 opacity-5 pointer-events-none`,children:(0,j.jsx)(`svg`,{width:`400`,height:`400`,viewBox:`0 0 24 24`,fill:`currentColor`,children:(0,j.jsx)(`path`,{d:`M12 2L4 12h3v10h10V12h3L12 2zm0 4.8l4.4 5.2h-2.4l1.6 4h-7.2l1.6-4H7.6L12 6.8z`})})}),(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16`,children:[(0,j.jsxs)(`div`,{children:[(0,j.jsxs)(`h2`,{className:`text-2xl font-black text-emerald-400 mb-6 leading-tight`,children:[`Special Tree `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-emerald-50`,children:`Service Roslyn`})]}),(0,j.jsx)(`p`,{className:`text-emerald-200/80 mb-8 leading-relaxed`,children:`Professional tree care services dedicated to safety, quality, and the beautification of your outdoor spaces.`}),(0,j.jsxs)(`div`,{className:`flex gap-4`,children:[(0,j.jsx)(`a`,{href:`#`,className:`w-10 h-10 rounded-full bg-emerald-900 flex items-center justify-center hover:bg-emerald-600 transition-colors duration-300`,children:(0,j.jsx)(wr,{})}),(0,j.jsx)(`a`,{href:`#`,className:`w-10 h-10 rounded-full bg-emerald-900 flex items-center justify-center hover:bg-emerald-600 transition-colors duration-300`,children:(0,j.jsx)(Sr,{})}),(0,j.jsx)(`a`,{href:`#`,className:`w-10 h-10 rounded-full bg-emerald-900 flex items-center justify-center hover:bg-emerald-600 transition-colors duration-300`,children:(0,j.jsx)(pr,{})})]})]}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`text-lg font-bold text-white mb-6 uppercase tracking-wider`,children:`Quick Links`}),(0,j.jsxs)(`div`,{className:`flex flex-col gap-3`,children:[(0,j.jsx)(`a`,{href:`/`,className:`text-emerald-200/80 hover:text-emerald-400 transition-colors w-fit`,children:`Home`}),(0,j.jsx)(`a`,{href:`/#about`,className:`text-emerald-200/80 hover:text-emerald-400 transition-colors w-fit`,children:`About Us`}),(0,j.jsx)(`a`,{href:`/#services`,className:`text-emerald-200/80 hover:text-emerald-400 transition-colors w-fit`,children:`Services`}),(0,j.jsx)(`a`,{href:`/#blog`,className:`text-emerald-200/80 hover:text-emerald-400 transition-colors w-fit`,children:`Blog`}),(0,j.jsx)(`a`,{href:`/#contact`,className:`text-emerald-200/80 hover:text-emerald-400 transition-colors w-fit`,children:`Contact`})]})]}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`text-lg font-bold text-white mb-6 uppercase tracking-wider`,children:`Our Services`}),(0,j.jsx)(`div`,{className:`flex flex-col gap-3`,children:[`Tree Removal`,`Tree Trimming`,`Tree Pruning`,`Stump Grinding`,`Emergency Tree Service`].map((e,t)=>(0,j.jsx)(`span`,{className:`text-emerald-200/80`,children:e},t))})]}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`text-lg font-bold text-white mb-6 uppercase tracking-wider`,children:`Get In Touch`}),(0,j.jsxs)(`div`,{className:`flex flex-col gap-4`,children:[(0,j.jsxs)(`a`,{href:`tel:+10000000000`,className:`flex items-center gap-3 text-emerald-200/80 hover:text-emerald-400 transition-colors`,children:[(0,j.jsx)(`div`,{className:`w-10 h-10 rounded-full bg-emerald-900 flex items-center justify-center shrink-0 text-emerald-400`,children:(0,j.jsx)(yr,{})}),`516-882-3300`]}),(0,j.jsxs)(`div`,{className:`flex items-center gap-3 text-emerald-200/80`,children:[(0,j.jsx)(`div`,{className:`w-10 h-10 rounded-full bg-emerald-900 flex items-center justify-center shrink-0 text-emerald-400`,children:(0,j.jsx)(xr,{})}),`Roslyn, NY`]})]})]})]}),(0,j.jsxs)(`div`,{className:`pt-8 border-t border-emerald-900 flex flex-col md:flex-row items-center justify-between gap-4 text-emerald-200/60 text-sm`,children:[(0,j.jsxs)(`p`,{children:[`© `,new Date().getFullYear(),` Special Tree Service Roslyn. All Rights Reserved.`]}),(0,j.jsxs)(`div`,{className:`flex gap-6`,children:[(0,j.jsx)(Pn,{to:`/privacy`,className:`hover:text-emerald-400 transition-colors`,children:`Privacy Policy`}),(0,j.jsx)(Pn,{to:`/terms`,className:`hover:text-emerald-400 transition-colors`,children:`Terms of Service`})]})]})]})]})}var Ir=`/special-tree-service-roslyn/assets/hero-BwNAbczE.webp`;function Lr(){return(0,j.jsxs)(`section`,{className:`relative min-h-[90vh] flex items-center justify-center pt-24 pb-12 overflow-hidden`,children:[(0,j.jsxs)(`div`,{className:`absolute inset-0 z-0`,children:[(0,j.jsx)(`img`,{src:Ir,alt:`Tree care professionals at work`,className:`w-full h-full object-cover object-center`}),(0,j.jsx)(`div`,{className:`absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-black/40 via-black/20 to-transparent`}),(0,j.jsx)(`div`,{className:`absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-white to-transparent`})]}),(0,j.jsx)(`div`,{className:`container mx-auto px-4 sm:px-6 relative z-10 flex flex-col items-center text-center`,children:(0,j.jsxs)(`div`,{className:`animate-fade-in-up w-full max-w-4xl`,children:[(0,j.jsxs)(`span`,{className:`inline-flex items-center gap-2 py-2 px-5 rounded-full bg-emerald-500/30 text-white font-bold tracking-widest text-sm uppercase mb-6 backdrop-blur-md shadow-lg border border-emerald-400/30`,children:[(0,j.jsx)(`span`,{className:`w-2 h-2 rounded-full bg-emerald-300 animate-pulse`}),`Tree Service in Roslyn`]}),(0,j.jsxs)(`h1`,{className:`text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black text-white leading-tight mb-6 drop-shadow-[0_5px_5px_rgba(0,0,0,0.8)]`,children:[`Expert Tree Care `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-emerald-400 drop-shadow-[0_5px_5px_rgba(0,0,0,0.8)]`,children:`For Your Home`})]}),(0,j.jsx)(`p`,{className:`text-lg md:text-2xl text-slate-100 mb-10 max-w-3xl mx-auto leading-relaxed drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-medium`,children:`Professional, safe, and reliable tree removal, trimming, and emergency services. We protect your property and enhance your landscape's beauty.`}),(0,j.jsx)(`div`,{className:`flex flex-col sm:flex-row flex-wrap justify-center gap-4 sm:gap-8 mb-12`,children:[`Certified Arborists`,`Fully Licensed & Insured`,`24/7 Emergency Service`].map((e,t)=>(0,j.jsxs)(`div`,{className:`flex items-center gap-2 text-white font-bold text-sm md:text-lg drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]`,children:[(0,j.jsx)(Er,{className:`text-emerald-400 text-xl md:text-2xl shrink-0`}),(0,j.jsx)(`span`,{children:e})]},t))}),(0,j.jsxs)(`div`,{className:`flex flex-col sm:flex-row gap-5 justify-center`,children:[(0,j.jsxs)(`a`,{href:`#contact`,className:`group flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-500 text-white px-10 py-5 rounded-full font-black text-lg shadow-[0_10px_30px_rgba(16,185,129,0.5)] transition-all duration-300 hover:-translate-y-1`,children:[`Get Free Estimate`,(0,j.jsx)(kr,{className:`text-xl group-hover:translate-x-1 transition-transform`})]}),(0,j.jsxs)(`a`,{href:`tel:516-882-3300`,className:`group flex items-center justify-center gap-3 bg-white/10 hover:bg-white/20 backdrop-blur-md border-2 border-white/30 text-white px-10 py-5 rounded-full font-black text-lg transition-all duration-300 hover:-translate-y-1 shadow-[0_10px_30px_rgba(0,0,0,0.3)]`,children:[(0,j.jsx)(yr,{className:`text-xl group-hover:rotate-12 transition-transform`}),`Call Now`]})]})]})})]})}var Rr=`/special-tree-service-roslyn/assets/about-DzFMpG_x.webp`;function zr(){return(0,j.jsx)(`section`,{id:`about`,className:`py-24 relative overflow-hidden`,children:(0,j.jsx)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:(0,j.jsxs)(`div`,{className:`grid grid-cols-1 lg:grid-cols-2 gap-16 items-center`,children:[(0,j.jsxs)(`div`,{className:`relative group`,children:[(0,j.jsx)(`div`,{className:`absolute -inset-4 bg-emerald-100 rounded-[2rem] transform rotate-3 group-hover:rotate-6 transition-transform duration-500 opacity-50`}),(0,j.jsx)(`img`,{src:Rr,alt:`Tree service team`,className:`relative rounded-3xl w-full h-[500px] object-cover shadow-2xl transition-transform duration-500 group-hover:-translate-y-2`}),(0,j.jsxs)(`div`,{className:`absolute -bottom-6 -right-6 bg-emerald-900 text-white p-8 rounded-3xl shadow-xl border-4 border-white transform transition-transform duration-500 group-hover:-translate-y-4`,children:[(0,j.jsx)(`h3`,{className:`text-5xl font-black text-emerald-400 mb-1`,children:`10+`}),(0,j.jsxs)(`p`,{className:`font-semibold tracking-wide text-slate-200`,children:[`Years`,(0,j.jsx)(`br`,{}),`Experience`]})]})]}),(0,j.jsxs)(`div`,{className:`lg:pl-8 mt-10 lg:mt-0`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-emerald-100 text-emerald-700 font-bold uppercase tracking-widest text-xs mb-4`,children:`About Our Company`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black text-emerald-950 leading-tight mb-6`,children:[`Trusted Tree Care `,(0,j.jsx)(`br`,{className:`hidden md:block`}),(0,j.jsx)(`span`,{className:`text-emerald-600 text-gradient`,children:`With Professional Expertise`})]}),(0,j.jsx)(`p`,{className:`text-lg text-slate-600 mb-8 leading-relaxed`,children:`Special Tree Service Roslyn provides dependable tree care solutions designed to protect your property and improve the beauty of your outdoor space. We treat every yard as if it were our own.`}),(0,j.jsx)(`div`,{className:`space-y-4 mb-10`,children:[`Certified tree care professionals`,`Safe and reliable tree solutions`,`Residential and commercial services`,`Quality work with customer satisfaction`].map((e,t)=>(0,j.jsxs)(`div`,{className:`flex items-center gap-4 text-emerald-950 font-semibold group`,children:[(0,j.jsx)(`div`,{className:`bg-emerald-100 p-2 rounded-full group-hover:bg-emerald-500 group-hover:text-white transition-colors duration-300`,children:(0,j.jsx)(Er,{className:`text-emerald-600 group-hover:text-white transition-colors duration-300 text-xl`})}),(0,j.jsx)(`span`,{className:`text-lg text-slate-700`,children:e})]},t))}),(0,j.jsx)(`a`,{href:`#contact`,className:`inline-block bg-emerald-700 hover:bg-emerald-800 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all duration-300`,children:`Learn More About Us`})]})]})})})}function Br(e){return A({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M378.31 378.49L298.42 288h30.63c9.01 0 16.98-5 20.78-13.06 3.8-8.04 2.55-17.26-3.28-24.05L268.42 160h28.89c9.1 0 17.3-5.35 20.86-13.61 3.52-8.13 1.86-17.59-4.24-24.08L203.66 4.83c-6.03-6.45-17.28-6.45-23.32 0L70.06 122.31c-6.1 6.49-7.75 15.95-4.24 24.08C69.38 154.65 77.59 160 86.69 160h28.89l-78.14 90.91c-5.81 6.78-7.06 15.99-3.27 24.04C37.97 283 45.93 288 54.95 288h30.63L5.69 378.49c-6 6.79-7.36 16.09-3.56 24.26 3.75 8.05 12 13.25 21.01 13.25H160v24.45l-30.29 48.4c-5.32 10.64 2.42 23.16 14.31 23.16h95.96c11.89 0 19.63-12.52 14.31-23.16L224 440.45V416h136.86c9.01 0 17.26-5.2 21.01-13.25 3.8-8.17 2.44-17.47-3.56-24.26z`},child:[]}]})(e)}function Vr(e){return A({tag:`svg`,attr:{viewBox:`0 0 512 512`},child:[{tag:`path`,attr:{d:`M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z`},child:[]}]})(e)}function Hr(e){return A({tag:`svg`,attr:{viewBox:`0 0 640 512`},child:[{tag:`path`,attr:{d:`M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4z`},child:[]}]})(e)}var Ur=`/special-tree-service-roslyn/assets/tree-removal-BNe4rE6v.webp`,Wr=`/special-tree-service-roslyn/assets/tree-trimming-B9oI7BFB.webp`,Gr=`/special-tree-service-roslyn/assets/tree-pruning-MOi9rY4A.webp`,Kr=`/special-tree-service-roslyn/assets/stump-grinding-CNljeqc3.webp`,qr=`/special-tree-service-roslyn/assets/emergency-tree-B2eDpas5.webp`,Jr=`/special-tree-service-roslyn/assets/storm-cleanup-BLhyPKrx.webp`;function Yr(){return(0,j.jsx)(`section`,{id:`services`,className:`py-24 bg-white relative`,children:(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-emerald-100 text-emerald-700 font-bold uppercase tracking-widest text-xs mb-4`,children:`Our Services`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black text-emerald-950 mb-6`,children:[`Professional `,(0,j.jsx)(`span`,{className:`text-emerald-600 text-gradient`,children:`Tree Care`}),` Solutions`]}),(0,j.jsx)(`p`,{className:`text-lg text-slate-600`,children:`Reliable tree services designed to keep your property safe and beautiful. From routine trimming to emergency removal.`})]}),(0,j.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`,children:[{title:`Tree Removal`,text:`Safe and professional tree removal services for your property.`,image:Ur,icon:(0,j.jsx)(mr,{})},{title:`Tree Trimming`,text:`Improve tree health and appearance with expert trimming.`,image:Wr,icon:(0,j.jsx)(vr,{})},{title:`Tree Pruning`,text:`Maintain strong and healthy trees with professional pruning.`,image:Gr,icon:(0,j.jsx)(Br,{})},{title:`Stump Grinding`,text:`Remove unwanted stumps and restore your outdoor space.`,image:Kr,icon:(0,j.jsx)(hr,{})},{title:`Emergency Tree Service`,text:`Fast response for fallen trees and storm damage.`,image:qr,icon:(0,j.jsx)(jr,{})},{title:`Storm Cleanup`,text:`Complete cleanup after storms and severe weather.`,image:Jr,icon:(0,j.jsx)(Hr,{})}].map((e,t)=>(0,j.jsxs)(`div`,{className:`bg-slate-50 rounded-[2rem] overflow-hidden group shadow-lg hover:shadow-2xl transition-all duration-300 border border-slate-100 hover:-translate-y-2 flex flex-col`,children:[(0,j.jsxs)(`div`,{className:`h-64 relative overflow-hidden`,children:[(0,j.jsx)(`div`,{className:`absolute inset-0 bg-emerald-900/20 group-hover:bg-transparent transition-colors duration-300 z-10`}),(0,j.jsx)(`img`,{src:e.image,alt:e.title,className:`w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700`}),(0,j.jsx)(`div`,{className:`absolute bottom-4 left-6 z-20 w-14 h-14 bg-white rounded-2xl flex items-center justify-center text-emerald-600 text-2xl shadow-xl transform translate-y-8 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300`,children:e.icon})]}),(0,j.jsxs)(`div`,{className:`p-8 flex flex-col flex-grow`,children:[(0,j.jsx)(`h3`,{className:`text-2xl font-black text-emerald-950 mb-3 group-hover:text-emerald-600 transition-colors duration-300`,children:e.title}),(0,j.jsx)(`p`,{className:`text-slate-600 mb-6 flex-grow leading-relaxed`,children:e.text}),(0,j.jsxs)(`a`,{href:`#contact`,className:`inline-flex items-center font-bold text-emerald-700 hover:text-amber-600 transition-colors duration-300 group/link`,children:[`Learn More`,(0,j.jsx)(`span`,{className:`ml-2 transform group-hover/link:translate-x-1 transition-transform`,children:`→`})]})]})]},t))})]})})}function Xr(){return(0,j.jsxs)(`section`,{id:`why`,className:`py-24 bg-emerald-950 relative overflow-hidden text-white`,children:[(0,j.jsx)(`div`,{className:`absolute top-0 right-0 w-96 h-96 bg-emerald-800 rounded-full mix-blend-multiply filter blur-3xl opacity-50 animate-blob pointer-events-none`}),(0,j.jsx)(`div`,{className:`absolute bottom-0 left-0 w-96 h-96 bg-emerald-900 rounded-full mix-blend-multiply filter blur-3xl opacity-50 animate-blob animation-delay-2000 pointer-events-none`}),(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-emerald-800/50 border border-emerald-700/50 text-emerald-300 font-bold uppercase tracking-widest text-xs mb-4 backdrop-blur-sm`,children:`Why Choose Us`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black mb-6`,children:[`Trusted Tree Service `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-emerald-400`,children:`You Can Depend On`})]}),(0,j.jsx)(`p`,{className:`text-lg text-emerald-100/80`,children:`We provide professional tree care with safety, quality, and customer-focused service at the core of everything we do.`})]}),(0,j.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8`,children:[{title:`Experienced Professionals`,text:`Our skilled team provides reliable tree care solutions with years of experience.`,icon:(0,j.jsx)(Or,{})},{title:`Safety First Approach`,text:`We follow professional safety practices to protect your property and surroundings.`,icon:(0,j.jsx)(_r,{})},{title:`Quality Tree Solutions`,text:`From trimming to removal, we deliver accurate and dependable services.`,icon:(0,j.jsx)(hr,{})},{title:`Customer Satisfaction`,text:`We focus on excellent service and complete customer satisfaction.`,icon:(0,j.jsx)(Cr,{})}].map((e,t)=>(0,j.jsxs)(`div`,{className:`bg-emerald-900/40 backdrop-blur-md border border-emerald-800/50 p-8 rounded-[2rem] hover:-translate-y-2 transition-transform duration-300 group`,children:[(0,j.jsx)(`div`,{className:`w-16 h-16 bg-emerald-800/80 rounded-2xl flex items-center justify-center text-emerald-400 text-3xl mb-6 shadow-inner group-hover:scale-110 group-hover:bg-emerald-700 transition-all duration-300`,children:e.icon}),(0,j.jsx)(`h3`,{className:`text-xl font-bold mb-3 text-emerald-50`,children:e.title}),(0,j.jsx)(`p`,{className:`text-emerald-100/70 leading-relaxed`,children:e.text})]},t))})]})]})}function Zr(){return(0,j.jsx)(`section`,{id:`testimonials`,className:`py-24 bg-slate-50 relative`,children:(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-amber-100 text-amber-700 font-bold uppercase tracking-widest text-xs mb-4`,children:`Testimonials`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black text-emerald-950 mb-6`,children:[`What Our Customers `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-amber-600`,children:`Say About Us`})]}),(0,j.jsx)(`p`,{className:`text-lg text-slate-600`,children:`Trusted by homeowners who need professional and dependable tree care services. Don't just take our word for it.`})]}),(0,j.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`,children:[{name:`Michael R.`,location:`Roslyn, NY`,text:`Excellent tree service. The team was professional, safe, and completed the job perfectly. I was amazed at how efficiently they worked.`},{name:`Sarah T.`,location:`Roslyn, NY`,text:`Very reliable service. They removed a large tree and cleaned everything after the work. My yard looks better than ever before.`},{name:`David L.`,location:`Roslyn, NY`,text:`Great experience from start to finish. Highly recommend their tree care services to anyone needing professional help in the area.`}].map((e,t)=>(0,j.jsxs)(`div`,{className:`bg-white p-10 rounded-[2rem] shadow-lg border border-slate-100 hover:shadow-2xl transition-all duration-300 relative group`,children:[(0,j.jsx)(Vr,{className:`absolute top-6 right-8 text-7xl text-slate-100 group-hover:text-emerald-50 transition-colors duration-300 z-0`}),(0,j.jsxs)(`div`,{className:`relative z-10`,children:[(0,j.jsx)(`div`,{className:`flex gap-1 mb-6 text-amber-500`,children:Array.from({length:5}).map((e,t)=>(0,j.jsx)(gr,{className:`fill-current text-xl`},t))}),(0,j.jsxs)(`p`,{className:`text-slate-700 italic text-lg leading-relaxed mb-8`,children:[`"`,e.text,`"`]}),(0,j.jsxs)(`div`,{className:`flex items-center gap-4`,children:[(0,j.jsx)(`div`,{className:`w-12 h-12 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center font-black text-xl`,children:e.name.charAt(0)}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`font-bold text-emerald-950 text-lg`,children:e.name}),(0,j.jsx)(`span`,{className:`text-sm font-semibold text-emerald-600 uppercase tracking-wider`,children:e.location})]})]})]})]},t))})]})})}function Qr(){let[e,t]=(0,x.useState)(null);return(0,j.jsx)(`section`,{id:`blog`,className:`py-24 bg-white relative`,children:(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`
+`,children:[(0,j.jsx)(yr,{"aria-hidden":`true`}),`Call Now`]})]})})]})}function Fr(){return(0,j.jsxs)(`footer`,{className:`
+bg-emerald-950
+text-emerald-50
+pt-20
+pb-10
+relative
+overflow-hidden
+`,children:[(0,j.jsx)(`div`,{className:`
+absolute
+-bottom-20
+-right-20
+opacity-5
+pointer-events-none
+`,children:(0,j.jsx)(`svg`,{width:`400`,height:`400`,viewBox:`0 0 24 24`,fill:`currentColor`,children:(0,j.jsx)(`path`,{d:`M12 2L4 12h3v10h10V12h3L12 2zm0 4.8l4.4 5.2h-2.4l1.6 4h-7.2l1.6-4H7.6L12 6.8z`})})}),(0,j.jsxs)(`div`,{className:`
+container
+mx-auto
+px-6
+lg:px-12
+relative
+z-10
+`,children:[(0,j.jsxs)(`div`,{className:`
+grid
+grid-cols-1
+md:grid-cols-2
+lg:grid-cols-4
+gap-12
+mb-16
+`,children:[(0,j.jsxs)(`div`,{children:[(0,j.jsxs)(`h2`,{className:`
+text-2xl
+font-black
+text-emerald-300
+mb-6
+leading-tight
+`,children:[`Special Tree`,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-emerald-50`,children:`Service Roslyn`})]}),(0,j.jsx)(`p`,{className:`
+text-emerald-100
+mb-8
+leading-relaxed
+`,children:`Professional tree care services dedicated to safety, quality, and the beautification of your outdoor spaces.`}),(0,j.jsxs)(`div`,{className:`flex gap-4`,children:[(0,j.jsx)(`a`,{href:`#`,"aria-label":`Visit our Facebook page`,className:`
+w-10
+h-10
+rounded-full
+bg-emerald-900
+flex
+items-center
+justify-center
+hover:bg-emerald-700
+transition
+`,children:(0,j.jsx)(wr,{"aria-hidden":`true`})}),(0,j.jsx)(`a`,{href:`#`,"aria-label":`Visit our Instagram page`,className:`
+w-10
+h-10
+rounded-full
+bg-emerald-900
+flex
+items-center
+justify-center
+hover:bg-emerald-700
+transition
+`,children:(0,j.jsx)(Sr,{"aria-hidden":`true`})}),(0,j.jsx)(`a`,{href:`#`,"aria-label":`Visit our Twitter page`,className:`
+w-10
+h-10
+rounded-full
+bg-emerald-900
+flex
+items-center
+justify-center
+hover:bg-emerald-700
+transition
+`,children:(0,j.jsx)(pr,{"aria-hidden":`true`})})]})]}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`
+text-lg
+font-bold
+text-white
+mb-6
+uppercase
+tracking-wider
+`,children:`Quick Links`}),(0,j.jsxs)(`div`,{className:`
+flex
+flex-col
+gap-3
+`,children:[(0,j.jsx)(`a`,{href:`/`,className:`
+text-emerald-100
+hover:text-emerald-300
+transition
+w-fit
+`,children:`Home`}),(0,j.jsx)(`a`,{href:`/#about`,className:`
+text-emerald-100
+hover:text-emerald-300
+transition
+w-fit
+`,children:`About Us`}),(0,j.jsx)(`a`,{href:`/#services`,className:`
+text-emerald-100
+hover:text-emerald-300
+transition
+w-fit
+`,children:`Services`}),(0,j.jsx)(`a`,{href:`/#blog`,className:`
+text-emerald-100
+hover:text-emerald-300
+transition
+w-fit
+`,children:`Blog`}),(0,j.jsx)(`a`,{href:`/contact`,className:`
+text-emerald-100
+hover:text-emerald-300
+transition
+w-fit
+`,children:`Contact`})]})]}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`
+text-lg
+font-bold
+text-white
+mb-6
+uppercase
+tracking-wider
+`,children:`Our Services`}),(0,j.jsx)(`div`,{className:`
+flex
+flex-col
+gap-3
+`,children:[`Tree Removal`,`Tree Trimming`,`Tree Pruning`,`Stump Grinding`,`Emergency Tree Service`].map((e,t)=>(0,j.jsx)(`span`,{className:`
+text-emerald-100
+`,children:e},t))})]}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`
+text-lg
+font-bold
+text-white
+mb-6
+uppercase
+tracking-wider
+`,children:`Get In Touch`}),(0,j.jsxs)(`div`,{className:`
+flex
+flex-col
+gap-4
+`,children:[(0,j.jsxs)(`a`,{href:`tel:5168823300`,"aria-label":`Call Special Tree Service Roslyn`,className:`
+flex
+items-center
+gap-3
+text-emerald-100
+hover:text-emerald-300
+transition
+`,children:[(0,j.jsx)(`div`,{className:`
+w-10
+h-10
+rounded-full
+bg-emerald-900
+flex
+items-center
+justify-center
+text-emerald-300
+shrink-0
+`,children:(0,j.jsx)(yr,{"aria-hidden":`true`})}),`516-882-3300`]}),(0,j.jsxs)(`div`,{className:`
+flex
+items-center
+gap-3
+text-emerald-100
+`,children:[(0,j.jsx)(`div`,{className:`
+w-10
+h-10
+rounded-full
+bg-emerald-900
+flex
+items-center
+justify-center
+text-emerald-300
+shrink-0
+`,children:(0,j.jsx)(xr,{"aria-hidden":`true`})}),`Roslyn, NY`]})]})]})]}),(0,j.jsxs)(`div`,{className:`
+pt-8
+border-t
+border-emerald-900
+flex
+flex-col
+md:flex-row
+items-center
+justify-between
+gap-4
+text-emerald-200
+text-sm
+`,children:[(0,j.jsxs)(`p`,{children:[`© `,new Date().getFullYear(),` Special Tree Service Roslyn. All Rights Reserved.`]}),(0,j.jsxs)(`div`,{className:`
+flex
+gap-6
+`,children:[(0,j.jsx)(Pn,{to:`/privacy`,className:`
+hover:text-emerald-300
+transition
+`,children:`Privacy Policy`}),(0,j.jsx)(Pn,{to:`/terms`,className:`
+hover:text-emerald-300
+transition
+`,children:`Terms of Service`})]})]})]})]})}var Ir=`/special-tree-service-roslyn/assets/hero-BwNAbczE.webp`;function Lr(){return(0,j.jsxs)(`section`,{className:`
+relative
+min-h-[90vh]
+flex
+items-center
+justify-center
+pt-24
+pb-12
+overflow-hidden
+`,children:[(0,j.jsxs)(`div`,{className:`absolute inset-0 z-0`,children:[(0,j.jsx)(`img`,{src:Ir,alt:`Professional tree service team working`,className:`
+w-full
+h-full
+object-cover
+object-center
+`}),(0,j.jsx)(`div`,{className:`
+absolute
+inset-0
+bg-black/50
+`}),(0,j.jsx)(`div`,{className:`
+absolute
+bottom-0
+left-0
+w-full
+h-32
+bg-gradient-to-t
+from-white
+to-transparent
+`})]}),(0,j.jsx)(`div`,{className:`
+container
+mx-auto
+px-4
+sm:px-6
+relative
+z-10
+flex
+flex-col
+items-center
+text-center
+`,children:(0,j.jsxs)(`div`,{className:`
+animate-fade-in-up
+w-full
+max-w-4xl
+`,children:[(0,j.jsxs)(`span`,{className:`
+inline-flex
+items-center
+gap-2
+py-2
+px-5
+rounded-full
+bg-emerald-700/70
+text-white
+font-bold
+tracking-widest
+text-sm
+uppercase
+mb-6
+backdrop-blur-md
+shadow-lg
+border
+border-emerald-300/40
+`,children:[(0,j.jsx)(`span`,{className:`
+w-2
+h-2
+rounded-full
+bg-emerald-300
+animate-pulse
+`}),`Tree Service in Roslyn`]}),(0,j.jsxs)(`h1`,{className:`
+text-5xl
+sm:text-6xl
+md:text-7xl
+lg:text-8xl
+font-black
+text-white
+leading-tight
+mb-6
+drop-shadow-lg
+`,children:[`Expert Tree Care`,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`
+text-emerald-300
+drop-shadow-lg
+`,children:`For Your Home`})]}),(0,j.jsx)(`p`,{className:`
+text-lg
+md:text-2xl
+text-white
+mb-10
+max-w-3xl
+mx-auto
+leading-relaxed
+drop-shadow-lg
+font-medium
+`,children:`Professional, safe, and reliable tree removal, trimming, and emergency services. We protect your property and enhance your landscape's beauty.`}),(0,j.jsx)(`div`,{className:`
+flex
+flex-col
+sm:flex-row
+flex-wrap
+justify-center
+gap-4
+sm:gap-8
+mb-12
+`,children:[`Certified Arborists`,`Fully Licensed & Insured`,`24/7 Emergency Service`].map((e,t)=>(0,j.jsxs)(`div`,{className:`
+flex
+items-center
+gap-2
+text-white
+font-bold
+text-sm
+md:text-lg
+drop-shadow-lg
+`,children:[(0,j.jsx)(Er,{className:`
+text-emerald-300
+text-xl
+md:text-2xl
+shrink-0
+`}),(0,j.jsx)(`span`,{children:e})]},t))}),(0,j.jsxs)(`div`,{className:`
+flex
+flex-col
+sm:flex-row
+gap-5
+justify-center
+`,children:[(0,j.jsxs)(`a`,{href:`#contact`,"aria-label":`Get free tree service estimate`,className:`
+group
+flex
+items-center
+justify-center
+gap-2
+bg-emerald-700
+hover:bg-emerald-800
+text-white
+px-10
+py-5
+rounded-full
+font-black
+text-lg
+shadow-lg
+transition-all
+duration-300
+hover:-translate-y-1
+`,children:[`Get Free Estimate`,(0,j.jsx)(kr,{className:`
+text-xl
+group-hover:translate-x-1
+transition-transform
+`})]}),(0,j.jsxs)(`a`,{href:`tel:516-882-3300`,"aria-label":`Call Special Tree Service Roslyn`,className:`
+group
+flex
+items-center
+justify-center
+gap-3
+bg-white/15
+hover:bg-white/25
+backdrop-blur-md
+border-2
+border-white/40
+text-white
+px-10
+py-5
+rounded-full
+font-black
+text-lg
+transition-all
+duration-300
+hover:-translate-y-1
+shadow-lg
+`,children:[(0,j.jsx)(yr,{className:`
+text-xl
+group-hover:rotate-12
+transition-transform
+`}),`Call Now`]})]})]})})]})}var Rr=`/special-tree-service-roslyn/assets/about-DzFMpG_x.webp`;function zr(){return(0,j.jsx)(`section`,{id:`about`,className:`py-24 relative overflow-hidden`,children:(0,j.jsx)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:(0,j.jsxs)(`div`,{className:`grid grid-cols-1 lg:grid-cols-2 gap-16 items-center`,children:[(0,j.jsxs)(`div`,{className:`relative group`,children:[(0,j.jsx)(`div`,{className:`
+              absolute
+              -inset-4
+              bg-emerald-100
+              rounded-[2rem]
+              rotate-3
+              group-hover:rotate-6
+              transition-transform
+              duration-500
+              opacity-50
+              `}),(0,j.jsx)(`img`,{src:Rr,alt:`Professional tree service team`,className:`
+              relative
+              rounded-3xl
+              w-full
+              h-[500px]
+              object-cover
+              shadow-2xl
+              transition-transform
+              duration-500
+              group-hover:-translate-y-2
+              `}),(0,j.jsxs)(`div`,{className:`
+              absolute
+              -bottom-6
+              -right-6
+              bg-emerald-900
+              text-white
+              p-8
+              rounded-3xl
+              shadow-xl
+              border-4
+              border-white
+              transition-transform
+              duration-500
+              group-hover:-translate-y-4
+              `,children:[(0,j.jsx)(`div`,{className:`
+                text-5xl
+                font-black
+                text-emerald-400
+                mb-1
+                `,children:`10+`}),(0,j.jsxs)(`p`,{className:`
+                font-semibold
+                tracking-wide
+                text-slate-200
+                `,children:[`Years`,(0,j.jsx)(`br`,{}),`Experience`]})]})]}),(0,j.jsxs)(`div`,{className:`lg:pl-8 mt-10 lg:mt-0`,children:[(0,j.jsx)(`span`,{className:`
+              inline-block
+              py-1
+              px-3
+              rounded-full
+              bg-emerald-100
+              text-emerald-700
+              font-bold
+              uppercase
+              tracking-widest
+              text-xs
+              mb-4
+              `,children:`About Our Company`}),(0,j.jsxs)(`h2`,{className:`
+              text-4xl
+              md:text-5xl
+              font-black
+              text-emerald-950
+              leading-tight
+              mb-6
+              `,children:[`Trusted Tree Care`,(0,j.jsx)(`br`,{className:`hidden md:block`}),(0,j.jsx)(`span`,{className:`text-emerald-600 text-gradient`,children:`With Professional Expertise`})]}),(0,j.jsx)(`p`,{className:`
+              text-lg
+              text-slate-600
+              mb-8
+              leading-relaxed
+              `,children:`Special Tree Service Roslyn provides dependable tree care solutions designed to protect your property and improve the beauty of your outdoor space. We treat every yard as if it were our own.`}),(0,j.jsx)(`div`,{className:`space-y-4 mb-10`,children:[`Certified tree care professionals`,`Safe and reliable tree solutions`,`Residential and commercial services`,`Quality work with customer satisfaction`].map((e,t)=>(0,j.jsxs)(`div`,{className:`
+                    flex
+                    items-center
+                    gap-4
+                    `,children:[(0,j.jsx)(`div`,{className:`
+                      bg-emerald-100
+                      p-2
+                      rounded-full
+                      `,children:(0,j.jsx)(Er,{className:`
+                        text-emerald-600
+                        text-xl
+                        `})}),(0,j.jsx)(`span`,{className:`
+                      text-lg
+                      text-slate-700
+                      font-semibold
+                      `,children:e})]},t))}),(0,j.jsx)(`a`,{href:`#contact`,className:`
+              inline-block
+              bg-emerald-700
+              hover:bg-emerald-800
+              text-white
+              px-8
+              py-4
+              rounded-full
+              font-bold
+              shadow-lg
+              hover:shadow-xl
+              hover:-translate-y-1
+              transition-all
+              duration-300
+              `,children:`Learn More About Us`})]})]})})})}function Br(e){return A({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M378.31 378.49L298.42 288h30.63c9.01 0 16.98-5 20.78-13.06 3.8-8.04 2.55-17.26-3.28-24.05L268.42 160h28.89c9.1 0 17.3-5.35 20.86-13.61 3.52-8.13 1.86-17.59-4.24-24.08L203.66 4.83c-6.03-6.45-17.28-6.45-23.32 0L70.06 122.31c-6.1 6.49-7.75 15.95-4.24 24.08C69.38 154.65 77.59 160 86.69 160h28.89l-78.14 90.91c-5.81 6.78-7.06 15.99-3.27 24.04C37.97 283 45.93 288 54.95 288h30.63L5.69 378.49c-6 6.79-7.36 16.09-3.56 24.26 3.75 8.05 12 13.25 21.01 13.25H160v24.45l-30.29 48.4c-5.32 10.64 2.42 23.16 14.31 23.16h95.96c11.89 0 19.63-12.52 14.31-23.16L224 440.45V416h136.86c9.01 0 17.26-5.2 21.01-13.25 3.8-8.17 2.44-17.47-3.56-24.26z`},child:[]}]})(e)}function Vr(e){return A({tag:`svg`,attr:{viewBox:`0 0 512 512`},child:[{tag:`path`,attr:{d:`M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z`},child:[]}]})(e)}function Hr(e){return A({tag:`svg`,attr:{viewBox:`0 0 640 512`},child:[{tag:`path`,attr:{d:`M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4z`},child:[]}]})(e)}var Ur=`/special-tree-service-roslyn/assets/tree-removal-BNe4rE6v.webp`,Wr=`/special-tree-service-roslyn/assets/tree-trimming-B9oI7BFB.webp`,Gr=`/special-tree-service-roslyn/assets/tree-pruning-MOi9rY4A.webp`,Kr=`/special-tree-service-roslyn/assets/stump-grinding-CNljeqc3.webp`,qr=`/special-tree-service-roslyn/assets/emergency-tree-B2eDpas5.webp`,Jr=`/special-tree-service-roslyn/assets/storm-cleanup-BLhyPKrx.webp`;function Yr(){return(0,j.jsx)(`section`,{id:`services`,className:`py-24 bg-white relative`,children:(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-emerald-100 text-emerald-700 font-bold uppercase tracking-widest text-xs mb-4`,children:`Our Services`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black text-emerald-950 mb-6`,children:[`Professional `,(0,j.jsx)(`span`,{className:`text-emerald-600 text-gradient`,children:`Tree Care`}),` Solutions`]}),(0,j.jsx)(`p`,{className:`text-lg text-slate-600`,children:`Reliable tree services designed to keep your property safe and beautiful. From routine trimming to emergency removal.`})]}),(0,j.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`,children:[{title:`Tree Removal`,text:`Safe and professional tree removal services for your property.`,image:Ur,icon:(0,j.jsx)(mr,{})},{title:`Tree Trimming`,text:`Improve tree health and appearance with expert trimming.`,image:Wr,icon:(0,j.jsx)(vr,{})},{title:`Tree Pruning`,text:`Maintain strong and healthy trees with professional pruning.`,image:Gr,icon:(0,j.jsx)(Br,{})},{title:`Stump Grinding`,text:`Remove unwanted stumps and restore your outdoor space.`,image:Kr,icon:(0,j.jsx)(hr,{})},{title:`Emergency Tree Service`,text:`Fast response for fallen trees and storm damage.`,image:qr,icon:(0,j.jsx)(jr,{})},{title:`Storm Cleanup`,text:`Complete cleanup after storms and severe weather.`,image:Jr,icon:(0,j.jsx)(Hr,{})}].map((e,t)=>(0,j.jsxs)(`div`,{className:`bg-slate-50 rounded-[2rem] overflow-hidden group shadow-lg hover:shadow-2xl transition-all duration-300 border border-slate-100 hover:-translate-y-2 flex flex-col`,children:[(0,j.jsxs)(`div`,{className:`h-64 relative overflow-hidden`,children:[(0,j.jsx)(`div`,{className:`absolute inset-0 bg-emerald-900/20 group-hover:bg-transparent transition-colors duration-300 z-10`}),(0,j.jsx)(`img`,{src:e.image,alt:e.title,className:`w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700`}),(0,j.jsx)(`div`,{className:`absolute bottom-4 left-6 z-20 w-14 h-14 bg-white rounded-2xl flex items-center justify-center text-emerald-600 text-2xl shadow-xl transform translate-y-8 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300`,children:e.icon})]}),(0,j.jsxs)(`div`,{className:`p-8 flex flex-col flex-grow`,children:[(0,j.jsx)(`h3`,{className:`text-2xl font-black text-emerald-950 mb-3 group-hover:text-emerald-600 transition-colors duration-300`,children:e.title}),(0,j.jsx)(`p`,{className:`text-slate-600 mb-6 flex-grow leading-relaxed`,children:e.text}),(0,j.jsxs)(`a`,{href:`#contact`,className:`inline-flex items-center font-bold text-emerald-700 hover:text-amber-600 transition-colors duration-300 group/link`,children:[`Learn More`,(0,j.jsx)(`span`,{className:`ml-2 transform group-hover/link:translate-x-1 transition-transform`,children:`→`})]})]})]},t))})]})})}function Xr(){return(0,j.jsxs)(`section`,{id:`why`,className:`py-24 bg-emerald-950 relative overflow-hidden text-white`,children:[(0,j.jsx)(`div`,{className:`absolute top-0 right-0 w-96 h-96 bg-emerald-800 rounded-full mix-blend-multiply filter blur-3xl opacity-50 animate-blob pointer-events-none`}),(0,j.jsx)(`div`,{className:`absolute bottom-0 left-0 w-96 h-96 bg-emerald-900 rounded-full mix-blend-multiply filter blur-3xl opacity-50 animate-blob animation-delay-2000 pointer-events-none`}),(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-emerald-800/50 border border-emerald-700/50 text-emerald-300 font-bold uppercase tracking-widest text-xs mb-4 backdrop-blur-sm`,children:`Why Choose Us`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black mb-6`,children:[`Trusted Tree Service `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-emerald-400`,children:`You Can Depend On`})]}),(0,j.jsx)(`p`,{className:`text-lg text-emerald-100/80`,children:`We provide professional tree care with safety, quality, and customer-focused service at the core of everything we do.`})]}),(0,j.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8`,children:[{title:`Experienced Professionals`,text:`Our skilled team provides reliable tree care solutions with years of experience.`,icon:(0,j.jsx)(Or,{})},{title:`Safety First Approach`,text:`We follow professional safety practices to protect your property and surroundings.`,icon:(0,j.jsx)(_r,{})},{title:`Quality Tree Solutions`,text:`From trimming to removal, we deliver accurate and dependable services.`,icon:(0,j.jsx)(hr,{})},{title:`Customer Satisfaction`,text:`We focus on excellent service and complete customer satisfaction.`,icon:(0,j.jsx)(Cr,{})}].map((e,t)=>(0,j.jsxs)(`div`,{className:`bg-emerald-900/40 backdrop-blur-md border border-emerald-800/50 p-8 rounded-[2rem] hover:-translate-y-2 transition-transform duration-300 group`,children:[(0,j.jsx)(`div`,{className:`w-16 h-16 bg-emerald-800/80 rounded-2xl flex items-center justify-center text-emerald-400 text-3xl mb-6 shadow-inner group-hover:scale-110 group-hover:bg-emerald-700 transition-all duration-300`,children:e.icon}),(0,j.jsx)(`h3`,{className:`text-xl font-bold mb-3 text-emerald-50`,children:e.title}),(0,j.jsx)(`p`,{className:`text-emerald-100/70 leading-relaxed`,children:e.text})]},t))})]})]})}function Zr(){return(0,j.jsx)(`section`,{id:`testimonials`,className:`py-24 bg-slate-50 relative`,children:(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12 relative z-10`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`inline-block py-1 px-3 rounded-full bg-amber-100 text-amber-700 font-bold uppercase tracking-widest text-xs mb-4`,children:`Testimonials`}),(0,j.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black text-emerald-950 mb-6`,children:[`What Our Customers `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`text-amber-600`,children:`Say About Us`})]}),(0,j.jsx)(`p`,{className:`text-lg text-slate-600`,children:`Trusted by homeowners who need professional and dependable tree care services. Don't just take our word for it.`})]}),(0,j.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`,children:[{name:`Michael R.`,location:`Roslyn, NY`,text:`Excellent tree service. The team was professional, safe, and completed the job perfectly. I was amazed at how efficiently they worked.`},{name:`Sarah T.`,location:`Roslyn, NY`,text:`Very reliable service. They removed a large tree and cleaned everything after the work. My yard looks better than ever before.`},{name:`David L.`,location:`Roslyn, NY`,text:`Great experience from start to finish. Highly recommend their tree care services to anyone needing professional help in the area.`}].map((e,t)=>(0,j.jsxs)(`div`,{className:`bg-white p-10 rounded-[2rem] shadow-lg border border-slate-100 hover:shadow-2xl transition-all duration-300 relative group`,children:[(0,j.jsx)(Vr,{className:`absolute top-6 right-8 text-7xl text-slate-100 group-hover:text-emerald-50 transition-colors duration-300 z-0`}),(0,j.jsxs)(`div`,{className:`relative z-10`,children:[(0,j.jsx)(`div`,{className:`flex gap-1 mb-6 text-amber-500`,children:Array.from({length:5}).map((e,t)=>(0,j.jsx)(gr,{className:`fill-current text-xl`},t))}),(0,j.jsxs)(`p`,{className:`text-slate-700 italic text-lg leading-relaxed mb-8`,children:[`"`,e.text,`"`]}),(0,j.jsxs)(`div`,{className:`flex items-center gap-4`,children:[(0,j.jsx)(`div`,{className:`w-12 h-12 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center font-black text-xl`,children:e.name.charAt(0)}),(0,j.jsxs)(`div`,{children:[(0,j.jsx)(`h3`,{className:`font-bold text-emerald-950 text-lg`,children:e.name}),(0,j.jsx)(`span`,{className:`text-sm font-semibold text-emerald-600 uppercase tracking-wider`,children:e.location})]})]})]})]},t))})]})})}function Qr(){let[e,t]=(0,x.useState)(null);return(0,j.jsx)(`section`,{id:`blog`,className:`py-24 bg-white relative`,children:(0,j.jsxs)(`div`,{className:`container mx-auto px-6 lg:px-12`,children:[(0,j.jsxs)(`div`,{className:`text-center max-w-2xl mx-auto mb-16`,children:[(0,j.jsx)(`span`,{className:`
             inline-block 
             py-1 
             px-3 

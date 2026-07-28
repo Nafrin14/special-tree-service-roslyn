@@ -321,171 +321,169 @@ transition
 hover:text-emerald-300
 transition
 `,children:"Terms of Service"})]})]})]})]})}var Gy="/special-tree-service-roslyn/assets/hero-B1vKuYpg.webp";function Qy(){return(0,m.jsxs)("section",{className:`
-      relative
-      min-h-[90vh]
-      flex
-      items-center
-      justify-center
-      pt-24
-      pb-12
-      overflow-hidden
-      `,children:[(0,m.jsxs)("div",{className:"absolute inset-0 z-0",children:[(0,m.jsx)("img",{src:Gy,alt:"Professional tree service team working",loading:"eager",fetchPriority:"high",decoding:"async",width:"1920",height:"900",className:`
-          w-full
-          h-full
-          object-cover
-          object-center
-          `}),(0,m.jsx)("div",{className:`
-          absolute
-          inset-0
-          bg-black/50
-          `}),(0,m.jsx)("div",{className:`
-          absolute
-          bottom-0
-          left-0
-          w-full
-          h-32
-          bg-gradient-to-t
-          from-white
-          to-transparent
-          `})]}),(0,m.jsx)("div",{className:`
-        container
-        mx-auto
-        px-4
-        sm:px-6
-        relative
-        z-10
-        flex
-        flex-col
-        items-center
-        text-center
-        `,children:(0,m.jsxs)("div",{className:`
-          animate-fade-in-up
-          w-full
-          max-w-4xl
-          `,children:[(0,m.jsxs)("span",{className:`
-            inline-flex
-            items-center
-            gap-2
-            py-2
-            px-5
-            rounded-full
-            bg-emerald-700/80
-            text-white
-            font-bold
-            tracking-widest
-            text-sm
-            uppercase
-            mb-6
-            backdrop-blur-md
-            shadow-lg
-            border
-            border-emerald-300/40
-            `,children:[(0,m.jsx)("span",{className:`
-              w-2
-              h-2
-              rounded-full
-              bg-emerald-300
-              animate-pulse
-              `}),"Tree Service in Roslyn"]}),(0,m.jsxs)("h1",{className:`
-            text-5xl
-            sm:text-6xl
-            md:text-7xl
-            lg:text-8xl
-            font-black
-            text-white
-            leading-tight
-            mb-6
-            drop-shadow-lg
-            `,children:["Expert Tree Care",(0,m.jsx)("br",{}),(0,m.jsx)("span",{className:`
-              text-emerald-300
-              drop-shadow-lg
-              `,children:"For Your Home"})]}),(0,m.jsx)("p",{className:`
-            text-lg
-            md:text-2xl
-            text-white
-            mb-10
-            max-w-3xl
-            mx-auto
-            leading-relaxed
-            drop-shadow-lg
-            font-medium
-            `,children:"Professional, safe, and reliable tree removal, trimming, and emergency services. We protect your property and enhance your landscape's beauty."}),(0,m.jsx)("div",{className:`
-            flex
-            flex-col
-            sm:flex-row
-            flex-wrap
-            justify-center
-            gap-4
-            sm:gap-8
-            mb-12
-            `,children:["Certified Arborists","Fully Licensed & Insured","24/7 Emergency Service"].map((i,r)=>(0,m.jsxs)("div",{className:`
-                  flex
-                  items-center
-                  gap-2
-                  text-white
-                  font-bold
-                  text-sm
-                  md:text-lg
-                  drop-shadow-lg
-                  `,children:[(0,m.jsx)(G0,{"aria-hidden":"true",className:`
-                    text-emerald-300
-                    text-xl
-                    md:text-2xl
-                    shrink-0
-                    `}),(0,m.jsx)("span",{children:i})]},r))}),(0,m.jsxs)("div",{className:`
-            flex
-            flex-col
-            sm:flex-row
-            gap-5
-            justify-center
-            `,children:[(0,m.jsxs)("a",{href:"#contact","aria-label":"Get free tree service estimate",className:`
-              group
-              flex
-              items-center
-              justify-center
-              gap-2
-              bg-emerald-700
-              hover:bg-emerald-800
-              text-white
-              px-10
-              py-5
-              rounded-full
-              font-black
-              text-lg
-              shadow-lg
-              transition-all
-              duration-300
-              hover:-translate-y-1
-              `,children:["Get Free Estimate",(0,m.jsx)(Q0,{"aria-hidden":"true",className:`
-                text-xl
-                group-hover:translate-x-1
-                transition-transform
-                `})]}),(0,m.jsxs)("a",{href:"tel:516-882-3300","aria-label":"Call Special Tree Service Roslyn",className:`
-              group
-              flex
-              items-center
-              justify-center
-              gap-3
-              bg-white/15
-              hover:bg-white/25
-              backdrop-blur-md
-              border-2
-              border-white/40
-              text-white
-              px-10
-              py-5
-              rounded-full
-              font-black
-              text-lg
-              transition-all
-              duration-300
-              hover:-translate-y-1
-              shadow-lg
-              `,children:[(0,m.jsx)(Dn,{"aria-hidden":"true",className:`
-                text-xl
-                group-hover:rotate-12
-                transition-transform
-                `}),"Call Now"]})]})]})})]})}var Xy="/special-tree-service-roslyn/assets/about-DwQ7JA9U.webp";function Vy(){return(0,m.jsx)("section",{id:"about",className:"py-24 relative overflow-hidden",children:(0,m.jsx)("div",{className:`
+relative
+min-h-[85vh]
+md:min-h-[90vh]
+flex
+items-center
+justify-center
+pt-24
+pb-12
+overflow-hidden
+`,children:[(0,m.jsxs)("div",{className:"absolute inset-0 z-0",children:[(0,m.jsx)("img",{src:Gy,alt:"Professional tree service team working",loading:"eager",fetchPriority:"high",decoding:"async",width:"1920",height:"900",sizes:"100vw",className:`
+w-full
+h-full
+object-cover
+object-center
+`}),(0,m.jsx)("div",{className:`
+absolute
+inset-0
+bg-black/50
+`}),(0,m.jsx)("div",{className:`
+absolute
+bottom-0
+left-0
+w-full
+h-32
+bg-gradient-to-t
+from-white
+to-transparent
+`})]}),(0,m.jsx)("div",{className:`
+container
+mx-auto
+px-4
+sm:px-6
+relative
+z-10
+flex
+flex-col
+items-center
+text-center
+`,children:(0,m.jsxs)("div",{className:`
+w-full
+max-w-4xl
+`,children:[(0,m.jsxs)("span",{className:`
+inline-flex
+items-center
+gap-2
+py-2
+px-5
+rounded-full
+bg-emerald-700/80
+text-white
+font-bold
+tracking-widest
+text-sm
+uppercase
+mb-6
+shadow-lg
+border
+border-emerald-300/40
+`,children:[(0,m.jsx)("span",{className:`
+w-2
+h-2
+rounded-full
+bg-emerald-300
+animate-pulse
+`}),"Tree Service in Roslyn"]}),(0,m.jsxs)("h1",{className:`
+text-5xl
+sm:text-6xl
+md:text-7xl
+lg:text-8xl
+font-black
+text-white
+leading-tight
+mb-6
+drop-shadow-lg
+`,children:["Expert Tree Care",(0,m.jsx)("br",{}),(0,m.jsx)("span",{className:`
+text-emerald-300
+drop-shadow-lg
+`,children:"For Your Home"})]}),(0,m.jsx)("p",{className:`
+text-lg
+md:text-2xl
+text-white
+mb-10
+max-w-3xl
+mx-auto
+leading-relaxed
+drop-shadow-lg
+font-medium
+`,children:"Professional, safe, and reliable tree removal, trimming, and emergency services. We protect your property and enhance your landscape's beauty."}),(0,m.jsx)("div",{className:`
+flex
+flex-col
+sm:flex-row
+flex-wrap
+justify-center
+gap-4
+sm:gap-8
+mb-12
+`,children:["Certified Arborists","Fully Licensed & Insured","24/7 Emergency Service"].map((i,r)=>(0,m.jsxs)("div",{className:`
+flex
+items-center
+gap-2
+text-white
+font-bold
+text-sm
+md:text-lg
+drop-shadow-lg
+`,children:[(0,m.jsx)(G0,{"aria-hidden":"true",className:`
+text-emerald-300
+text-xl
+md:text-2xl
+shrink-0
+`}),(0,m.jsx)("span",{children:i})]},r))}),(0,m.jsxs)("div",{className:`
+flex
+flex-col
+sm:flex-row
+gap-5
+justify-center
+`,children:[(0,m.jsxs)("a",{href:"#contact","aria-label":"Get free tree service estimate",className:`
+group
+flex
+items-center
+justify-center
+gap-2
+bg-emerald-700
+hover:bg-emerald-800
+text-white
+px-10
+py-5
+rounded-full
+font-black
+text-lg
+shadow-lg
+transition-all
+duration-300
+hover:-translate-y-1
+`,children:["Get Free Estimate",(0,m.jsx)(Q0,{"aria-hidden":"true",className:`
+text-xl
+group-hover:translate-x-1
+transition-transform
+`})]}),(0,m.jsxs)("a",{href:"tel:516-882-3300","aria-label":"Call Special Tree Service Roslyn",className:`
+group
+flex
+items-center
+justify-center
+gap-3
+bg-white/15
+hover:bg-white/25
+border-2
+border-white/40
+text-white
+px-10
+py-5
+rounded-full
+font-black
+text-lg
+transition-all
+duration-300
+hover:-translate-y-1
+shadow-lg
+`,children:[(0,m.jsx)(Dn,{"aria-hidden":"true",className:`
+text-xl
+group-hover:rotate-12
+transition-transform
+`}),"Call Now"]})]})]})})]})}var Xy="/special-tree-service-roslyn/assets/about-DwQ7JA9U.webp";function Vy(){return(0,m.jsx)("section",{id:"about",className:"py-24 relative overflow-hidden",children:(0,m.jsx)("div",{className:`
         container
         mx-auto
         px-6

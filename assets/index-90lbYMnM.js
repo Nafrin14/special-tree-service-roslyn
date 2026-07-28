@@ -320,7 +320,7 @@ transition
 `,children:"Privacy Policy"}),(0,m.jsx)(ul,{to:"/terms",className:`
 hover:text-emerald-300
 transition
-`,children:"Terms of Service"})]})]})]})]})}var Gy="/special-tree-service-roslyn/assets/hero-B1vKuYpg.webp";function Qy(){return(0,m.jsxs)("section",{className:`
+`,children:"Terms of Service"})]})]})]})]})}var Gy="/special-tree-service-roslyn/assets/hero-DpIHi1Wm.webp";function Qy(){return(0,m.jsxs)("section",{className:`
 relative
 min-h-[85vh]
 md:min-h-[90vh]

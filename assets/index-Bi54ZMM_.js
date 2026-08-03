@@ -809,23 +809,8 @@ transition-transform
                       text-emerald-800
                       uppercase
                       tracking-wider
-                    `,children:i.location})]})]})]})]},r))})]})})}function ag(){const[i,r]=(0,b.useState)(null);return(0,m.jsx)("section",{id:"blog",className:"py-24 bg-white relative",children:(0,m.jsxs)("div",{className:"container mx-auto px-6 lg:px-12",children:[(0,m.jsxs)("div",{className:"text-center max-w-2xl mx-auto mb-16",children:[(0,m.jsx)("span",{className:`
-            inline-block 
-            py-1 
-            px-3 
-            rounded-full 
-            bg-emerald-100 
-            text-emerald-700 
-            font-bold 
-            uppercase 
-            tracking-widest 
-            text-xs 
-            mb-4`,children:"Latest Articles"}),(0,m.jsxs)("h2",{className:`
-            text-4xl 
-            md:text-5xl 
-            font-black 
-            text-emerald-950 
-            mb-6`,children:["Tree Care Tips & ",(0,m.jsx)("br",{}),(0,m.jsx)("span",{className:"text-emerald-600",children:"Expert Advice"})]}),(0,m.jsx)("p",{className:"text-lg text-slate-600",children:"Helpful information, seasonal guides, and expert tips from the certified arborists at Special Tree Service Roslyn."})]}),(0,m.jsx)("div",{className:`
+                    `,children:i.location})]})]})]})]},r))})]})})}function ag(){const[i,r]=(0,b.useState)(null);return(0,m.jsx)("section",{id:"blog",className:"py-24 bg-white relative",children:(0,m.jsxs)("div",{className:"container mx-auto px-6 lg:px-12",children:[(0,m.jsxs)("div",{className:"text-center max-w-2xl mx-auto mb-16",children:[(0,m.jsx)("span",{className:` inline-block  py-1  px-3  rounded-full  bg-emerald-100  text-emerald-700  font-bold 
+       uppercase tracking-widest text-xs mb-4`,children:"Latest Articles"}),(0,m.jsxs)("h2",{className:" text-4xl  md:text-5xl  font-black  text-emerald-950  mb-6",children:["Tree Care Tips & ",(0,m.jsx)("br",{}),(0,m.jsx)("span",{className:"text-emerald-600",children:"Expert Advice"})]}),(0,m.jsx)("p",{className:"text-lg text-slate-600",children:"Helpful information, seasonal guides, and expert tips from the certified arborists at Special Tree Service Roslyn."})]}),(0,m.jsx)("div",{className:`
           grid 
           grid-cols-1 
           md:grid-cols-2 
